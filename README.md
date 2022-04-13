@@ -14,8 +14,6 @@ To run the project:
 3. react-native run-android
 
 <p align="center" >
-<img width="330" alt="Screenshot 2022-04-13 at 10 44 51 PM" src="https://user-images.githubusercontent.com/75309572/163255129-32881c28-fc05-4de3-848b-5535884dc1b0.png">
-&nbsp; &nbsp; &nbsp; &nbsp;
  <img width="330" alt="Screenshot 2022-04-13 at 10 42 43 PM" src="https://user-images.githubusercontent.com/75309572/163255161-14487896-6d4b-40ad-962b-147f77671102.png">
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img width="330" alt="Screenshot 2022-04-13 at 10 42 49 PM" src="https://user-images.githubusercontent.com/75309572/163255176-4563fe28-674e-4d20-9135-32c11cce9489.png">
@@ -27,6 +25,8 @@ To run the project:
   <img width="330" alt="Screenshot 2022-04-14 at 12 54 24 AM" src="https://user-images.githubusercontent.com/75309572/163255286-bf3b34bc-973b-4f9d-b16e-b36502d71f28.png">
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img width="330" alt="Screenshot 2022-04-13 at 10 44 18 PM" src="https://user-images.githubusercontent.com/75309572/163255320-694d14cb-4143-40fd-aa01-8ccdcfc20646.png">
+ &nbsp; &nbsp; &nbsp; &nbsp;
+ <img width="330" alt="Screenshot 2022-04-13 at 10 44 51 PM" src="https://user-images.githubusercontent.com/75309572/163255129-32881c28-fc05-4de3-848b-5535884dc1b0.png">
   </p>
 
 
