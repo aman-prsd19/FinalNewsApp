@@ -13,10 +13,15 @@ To run the project:
 2. yarn install
 3. react-native run-android
 
-Solariz<img width="518" alt="Screenshot 2022-04-13 at 10 44 51 PM" src="https://user-images.githubusercontent.com/75309572/163254046-c05f5ae9-412d-47ea-8d09-80015d4716e7.png">
-ed dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![           ]
-  |  ![](<img width="518" alt="Screenshot 2022-04-13 at 10 42 43 PM" src="https://user-images.githubusercontent.com/75309572/163253080-431de42e-4865-4cad-9768-d1dc57aec16c.png">)
+<p align="center">
+  
+  <img width="518" alt="Screenshot 2022-04-13 at 10 44 51 PM" src="https://user-images.githubusercontent.com/75309572/163254264-725a740f-19f3-4a39-b641-7d0c49a24fa3.png">
+
+  
+  
+&nbsp; &nbsp; &nbsp; &nbsp;
+ <img width="518" alt="Screenshot 2022-04-13 at 10 44 18 PM" src="https://user-images.githubusercontent.com/75309572/163254280-cae7bffa-e701-49ad-9915-d16a5a0eb739.png">
+
+</p>
 
 
