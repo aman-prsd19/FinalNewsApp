@@ -15,7 +15,7 @@ To run the project:
 
 <p align="center">
   
-  <img width="518" alt="Screenshot 2022-04-13 at 10 44 51 PM" src="https://user-images.githubusercontent.com/75309572/163254264-725a740f-19f3-4a39-b641-7d0c49a24fa3.png">
+  <img width="300" alt="Screenshot 2022-04-13 at 10 44 51 PM" src="https://user-images.githubusercontent.com/75309572/163254264-725a740f-19f3-4a39-b641-7d0c49a24fa3.png">
 &nbsp; &nbsp; &nbsp; &nbsp;
  <img width="518" alt="Screenshot 2022-04-13 at 10 44 18 PM" src="https://user-images.githubusercontent.com/75309572/163254280-cae7bffa-e701-49ad-9915-d16a5a0eb739.png">
 
