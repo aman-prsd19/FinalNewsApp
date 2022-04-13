@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="async-storage.android" target="11" />
+      <module name="react-native-pager-view.android" target="11" />
+      <module name="react-native-safe-area-context.android" target="11" />
+      <module name="temp.app" target="11" />
+      <module name="temp.react-native-async-storage_async-storage" target="11" />
+      <module name="temp.react-native-community_datetimepicker" target="11" />
+      <module name="temp.react-native-gesture-handler" target="11" />
+      <module name="temp.react-native-pager-view" target="11" />
+      <module name="temp.react-native-safe-area-context" target="11" />
+      <module name="temp.react-native-screens" target="11" />
+      <module name="temp.react-native-vector-icons" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
